@@ -4,7 +4,7 @@ This game is a basic clone of the classic retro games Arkanoid and breakout.
 The main action in this game is the paddle and ball interaction.
 The player must position the paddle carefully and consider the bounce of the ball. 
 The paddle movement was tweaked to feel "slippery" and bounces off the walls which 
-add the the challenge, you have to correct your movement and be careful to win!
+adds to the challenge, you have to correct your movement and be careful to win!
 
 What was the hardest part of the game to get working in Unreal
 --------------------------------------------------------------
@@ -13,6 +13,7 @@ also laying the level out evenly and finding the right things to use was a lengt
 
 What is the most interesting part of the game
 ---------------------------------------------
-The most interesting part for me was creating my own physics material 
-and using it in order to get the desired bounce,feel and look, it's hard to narrow
-my choice down to one aspect as the project as a whole was really fun and interesting.
+The most interesting part for me is the mastering the paddle movement
+and trying out the ball launch at different spots, doing both of these
+made it possible to hit multiple bricks at once which was really interesting to see 
+after play testing it.
